@@ -199,3 +199,4 @@ Claude Code 会自动发现 `.claude/skills/<name>/SKILL.md` 路径下的 skills
 ---
 
 *此 Skill 由 [女娲·Skill造人术](https://github.com/alchaincyf/nuwa-skill) 创建。*
+*此 Skill 由unicornfemc上传
